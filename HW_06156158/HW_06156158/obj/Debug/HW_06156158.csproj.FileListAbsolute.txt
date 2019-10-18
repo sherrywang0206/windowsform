@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\HW_06156158\HW_06156158\bin\Debug\HW_06156158.exe.config
+C:\Users\user\source\repos\HW_06156158\HW_06156158\bin\Debug\HW_06156158.exe
+C:\Users\user\source\repos\HW_06156158\HW_06156158\bin\Debug\HW_06156158.pdb
+C:\Users\user\source\repos\HW_06156158\HW_06156158\obj\Debug\HW_06156158.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HW_06156158\HW_06156158\obj\Debug\HW_06156158.Form1.resources
+C:\Users\user\source\repos\HW_06156158\HW_06156158\obj\Debug\HW_06156158.Properties.Resources.resources
+C:\Users\user\source\repos\HW_06156158\HW_06156158\obj\Debug\HW_06156158.csproj.GenerateResource.cache
+C:\Users\user\source\repos\HW_06156158\HW_06156158\obj\Debug\HW_06156158.exe
+C:\Users\user\source\repos\HW_06156158\HW_06156158\obj\Debug\HW_06156158.pdb
